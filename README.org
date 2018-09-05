@@ -1,0 +1,44 @@
+* Consider supporting the developers behind Emacs and great packages
+
+** Core Emacs
+- [[https://my.fsf.org/donate][Donate to Free Software Foundation]]
+- [[https://my.fsf.org/join][Join FSF]]
+
+** Package developers
+
+*** Bastien Guerry
+Maintainer of [[https://orgmode.org/][Org mode]]. Support Bastien:
+- via [[https://liberapay.com/bzg/][liberpay]]
+- via [[https://www.paypal.me/bzg][PayPal]]
+
+*** Bozhidar Batsov ([[https://github.com/bbatsov][bbatsov]])
+Hacker. Emacs fanatic. VP of Engineering @toptal. Author of:
+- [[https://github.com/bbatsov/prelude][Prelude]] – An Emacs distribution built on top of GNU Emacs 24
+- [[https://github.com/bbatsov/projectile][Projectile]] – Project Interaction Library for Emacs, that stays out of your way
+- [[https://github.com/clojure-emacs/cider][cider]] – A Clojure programming environment for Emacs
+- and [[http://batsov.com/about/][others]].
+
+Support Bozhidar:
+- via [[https://www.patreon.com/bbatsov][Patreon]]
+- via [[https://www.gratipay.com/bbatsov][gratipay]]
+- via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3J4QE5QBJU84Q][PayPal]]
+
+*** Thierry Volpiatto
+Creator and maintainer of [[https://github.com/emacs-helm/helm][Helm]]. Support Thierry:
+- via [[https://patreon.com/preview/30231724baf440fabe80d44d0ee77067][Patreon]]
+- via [[https://www.paypal.me/thierryvolpiatto/20][PayPal]]
+
+*** Jonas Bernoulli
+Maintainer of [[https://magit.vc/][Magit]].
+
+#+BEGIN_QUOTE
+Magit is an interface to the version control system Git, implemented as an Emacs package. Magit aspires to be a complete Git porcelain. While we cannot (yet) claim that Magit wraps and improves upon each and every Git command, it is complete enough to allow even experienced Git users to perform almost all of their daily version control tasks directly from within Emacs.
+
+I've been maintaining Magit since mid-2013, and like to think that it took a huge leap forward during that time.
+#+END_QUOTE
+
+Support Jonas:
+- via [[https://www.patreon.com/tarsius][Patreon]]
+- via [[https://www.paypal.me/JonasBernoulli/20][PayPal]]
+- via [[https://liberapay.com/magit][liberpay]]
+- via [[https://magit.vc/donate/][bank transfer, bitcoin and other means]]
