@@ -1,4 +1,6 @@
-* Consider supporting the developers behind Emacs and great packages
+* Support Emacs community developers
+
+Consider supporting the developers behind Emacs, great packages and educational resources. Often, a package is used by tens of thousands of people while the maintainers can barely pay the bills.
 
 ** Core Emacs
 - [[https://my.fsf.org/donate][Donate to Free Software Foundation]]
@@ -112,3 +114,7 @@ Writes a blog and tutorials on ergonomic Emacs.
 Support Xah:
 - via [[https://www.patreon.com/xahlee][Patreon]]
 - by [[http://ergoemacs.org/emacs/buy_xah_emacs_tutorial.html][buying Xah's tutorial]]
+
+* Contributions
+
+Feel free to add more developers to this list. Their work should be relevant to the Emacs community and support links should be poiting to actionable pages (donations, patreon subscriptions, stores, etc).
