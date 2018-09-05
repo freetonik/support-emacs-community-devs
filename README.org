@@ -4,7 +4,28 @@
 - [[https://my.fsf.org/donate][Donate to Free Software Foundation]]
 - [[https://my.fsf.org/join][Join FSF]]
 
-** Package developers
+** Infrastructure
+
+*** Steve Purcell
+Creator of [[https://melpa.org/][MELPA]] and a popular "[[https://github.com/purcell/emacs.d][purcell/emacs.d]]" config.
+
+#+BEGIN_QUOTE
+I've worked hard since 2012 to make MELPA the best place to find high-quality emacs lisp packages for any workflow, and thousands of people use my own elisp packages and my popular Emacs configuration. Beyond Emacs, I'm a contributor to dozens of other active developer tooling projects across many languages.
+
+I always take extra time to help other developers level up, and to model how I believe every inclusive, friendly open source community should work. I do this for love, but it means a lot to me that some people appreciate my contributions enough to become patrons - thank you!
+#+END_QUOTE
+
+Support Steve:
+- via [[https://www.patreon.com/sanityinc][Patreon]]
+
+** Distributions
+
+*** Spacemacs
+Support:
+- via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ESFVNPKP4Y742][PayPal]]
+- by [[https://shop.spreadshirt.com/spacemacs-shop][buying merch]]
+
+** Packages
 
 *** Bastien Guerry
 Maintainer of [[https://orgmode.org/][Org mode]]. Support Bastien:
@@ -12,11 +33,7 @@ Maintainer of [[https://orgmode.org/][Org mode]]. Support Bastien:
 - via [[https://www.paypal.me/bzg][PayPal]]
 
 *** Bozhidar Batsov ([[https://github.com/bbatsov][bbatsov]])
-Hacker. Emacs fanatic. VP of Engineering @toptal. Author of:
-- [[https://github.com/bbatsov/prelude][Prelude]] – An Emacs distribution built on top of GNU Emacs 24
-- [[https://github.com/bbatsov/projectile][Projectile]] – Project Interaction Library for Emacs, that stays out of your way
-- [[https://github.com/clojure-emacs/cider][cider]] – A Clojure programming environment for Emacs
-- and [[http://batsov.com/about/][others]].
+Hacker. Emacs fanatic. VP of Engineering @toptal. Author of [[https://github.com/bbatsov/prelude][Prelude]], [[https://github.com/bbatsov/projectile][Projectile,]] [[https://github.com/clojure-emacs/cider][cider]] and [[http://batsov.com/about/][others]].
 
 Support Bozhidar:
 - via [[https://www.patreon.com/bbatsov][Patreon]]
@@ -24,7 +41,17 @@ Support Bozhidar:
 - via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3J4QE5QBJU84Q][PayPal]]
 
 *** Thierry Volpiatto
-Creator and maintainer of [[https://github.com/emacs-helm/helm][Helm]]. Support Thierry:
+Creator and maintainer of [[https://github.com/emacs-helm/helm][Helm]].
+
+#+BEGIN_QUOTE
+Maintaining Helm requires a lot of work, which I have done voluntarily since 2011. As it demands lots of my time it gets increasingly difficult maintaining it without financial help.
+
+Thanks to all the people that are helping or have helped Helm development, but they are actually too few to continue serenely. By the way, after the release of version 3.0 I will have to stop developing Helm seriously until I get enough financial support, only providing a minimal bugfix maintenance. Thanks for your understanding If you feel Helm is making your daily work easier, please consider making a donation.
+
+Thank you!
+#+END_QUOTE
+
+Support Thierry:
 - via [[https://patreon.com/preview/30231724baf440fabe80d44d0ee77067][Patreon]]
 - via [[https://www.paypal.me/thierryvolpiatto/20][PayPal]]
 
@@ -42,3 +69,46 @@ Support Jonas:
 - via [[https://www.paypal.me/JonasBernoulli/20][PayPal]]
 - via [[https://liberapay.com/magit][liberpay]]
 - via [[https://magit.vc/donate/][bank transfer, bitcoin and other means]]
+
+
+*** Matus Goljer
+Maintains and co-maintains [[https://github.com/Fuco1/smartparens][smartparens]], [[https://github.com/magnars/dash.el][dash]], [[https://github.com/Fuco1/dired-hacks][dired-hacks]], [[https://github.com/Fuco1/litable][litable]] and [[https://github.com/Fuco1/litable][others]].
+
+#+BEGIN_QUOTE
+I write a [[https://fuco1.github.io/][blog]] about Emacs (and other things).
+
+While working towards my financial independence, an additional income stream means I can do less contracting work and focus more on Emacs and the community, something I am very passionate about.
+#+END_QUOTE
+
+Support Matus:
+- via [[https://www.patreon.com/user?u=3282358][Patreon]]
+- via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYP5YVHDRX8C][PayPal]]
+
+*** Francois-Xavier Bois
+Creator of [[http://web-mode.org/][web-mode]]. Support Francois-Xavier:
+
+- via [[https://paypal.me/fxbois][PayPal]]
+- via [[https://liberapay.com/fxbois/donate][liberpay]]
+
+*** Jorgen Schäfer
+Creator of [[https://github.com/jorgenschaefer/elpy][elpy]], [[https://github.com/jorgenschaefer/circe][circe]] and [[https://github.com/jorgenschaefer][others]]. Support Jorgen:
+- via [[https://www.patreon.com/jorgenschaefer][Patreon]]
+
+** Books, tutorials, blogs
+
+*** Sacha Chua
+
+#+BEGIN_QUOTE
+I try to share as much as I can through this personal blog. You’ll find notes about sketchnoting, Emacs, visual book reviews, self-tracking, blogging, life, automation, delegation… whatever I’m learning about or whatever I can help other people learn.
+#+END_QUOTE
+
+Support Sacha:
+- by buying [[http://sachachua.com/blog/resources/][her sketches and e-books]] for whatever price you want
+
+*** Xah Lee
+
+Writes a blog and tutorials on ergonomic Emacs.
+
+Support Xah:
+- via [[https://www.patreon.com/xahlee][Patreon]]
+- by [[http://ergoemacs.org/emacs/buy_xah_emacs_tutorial.html][buying Xah's tutorial]]
