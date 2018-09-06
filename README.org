@@ -117,4 +117,4 @@ Support Xah:
 
 * Contributions
 
-Feel free to add more developers to this list. Their work should be relevant to the Emacs community and support links should be poiting to actionable pages (donations, patreon subscriptions, stores, etc).
+Feel free to add more developers to this list. Their work should be relevant to the Emacs community and support links should be pointing to actionable pages (donations, patreon subscriptions, stores, etc).
