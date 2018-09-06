@@ -1,38 +1,38 @@
-* Table of Contents
-:PROPERTIES:
-:TOC: this
-:END:
-  -  [[#support-emacs-community-developers][Support Emacs community developers]]
-    -  [[#core-emacs][Core Emacs]]
-    -  [[#infrastructure][Infrastructure]]
-      -  [[#steve-purcell][Steve Purcell]]
-    -  [[#distributions][Distributions]]
-      -  [[#spacemacs][Spacemacs]]
-    -  [[#packages][Packages]]
-      -  [[#bastien-guerry][Bastien Guerry]]
-      -  [[#bozhidar-batsov-bbatsov][Bozhidar Batsov (bbatsov)]]
-      -  [[#thierry-volpiatto][Thierry Volpiatto]]
-      -  [[#jonas-bernoulli][Jonas Bernoulli]]
-      -  [[#matus-goljer][Matus Goljer]]
-      -  [[#francois-xavier-bois][Francois-Xavier Bois]]
-      -  [[#jorgen-schäfer][Jorgen Schäfer]]
-      -  [[#oleh-krehel-abo-abo][Oleh Krehel (abo-abo)]]
-    -  [[#books-tutorials-blogs][Books, tutorials, blogs]]
-      -  [[#sacha-chua][Sacha Chua]]
-      -  [[#xah-lee][Xah Lee]]
-  -  [[#contributions][Contributions]]
-
 * Support Emacs community developers
 
 Consider supporting the developers behind Emacs, great packages and educational resources. Often, a package is used by tens of thousands of people while the maintainers can barely pay the bills.
 
-** Core Emacs
+* Table of Contents
+:PROPERTIES:
+:TOC: this
+:END:
+  -  [[#core-emacs][Core Emacs]]
+  -  [[#infrastructure][Infrastructure]]
+    -  [[#steve-purcell][Steve Purcell]]
+  -  [[#distributions][Distributions]]
+    -  [[#spacemacs][Spacemacs]]
+  -  [[#packages][Packages]]
+    -  [[#bastien-guerry][Bastien Guerry]]
+    -  [[#bozhidar-batsov-bbatsov][Bozhidar Batsov (bbatsov)]]
+    -  [[#thierry-volpiatto][Thierry Volpiatto]]
+    -  [[#jonas-bernoulli][Jonas Bernoulli]]
+    -  [[#matus-goljer][Matus Goljer]]
+    -  [[#francois-xavier-bois][Francois-Xavier Bois]]
+    -  [[#jorgen-schäfer][Jorgen Schäfer]]
+    -  [[#oleh-krehel-abo-abo][Oleh Krehel (abo-abo)]]
+  -  [[#books-tutorials-blogs][Books, tutorials, blogs]]
+    -  [[#sacha-chua][Sacha Chua]]
+    -  [[#xah-lee][Xah Lee]]
+  -  [[#contributions][Contributions]]
+
+* Core Emacs
+
 - [[https://my.fsf.org/donate][Donate to Free Software Foundation]]
 - [[https://my.fsf.org/join][Join FSF]]
 
-** Infrastructure
+* Infrastructure
 
-*** Steve Purcell
+** Steve Purcell
 Creator of [[https://melpa.org/][MELPA]] and a popular "[[https://github.com/purcell/emacs.d][purcell/emacs.d]]" config.
 
 #+BEGIN_QUOTE
@@ -44,21 +44,21 @@ I always take extra time to help other developers level up, and to model how I b
 Support Steve:
 - via [[https://www.patreon.com/sanityinc][Patreon]]
 
-** Distributions
+* Distributions
 
-*** Spacemacs
+** Spacemacs
 Support:
 - via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ESFVNPKP4Y742][PayPal]]
 - by [[https://shop.spreadshirt.com/spacemacs-shop][buying merch]]
 
-** Packages
+* Packages
 
-*** Bastien Guerry
+** Bastien Guerry
 Maintainer of [[https://orgmode.org/][Org mode]]. Support Bastien:
 - via [[https://liberapay.com/bzg/][liberpay]]
 - via [[https://www.paypal.me/bzg][PayPal]]
 
-*** Bozhidar Batsov ([[https://github.com/bbatsov][bbatsov]])
+** Bozhidar Batsov ([[https://github.com/bbatsov][bbatsov]])
 Hacker. Emacs fanatic. VP of Engineering @toptal. Author of [[https://github.com/bbatsov/prelude][Prelude]], [[https://github.com/bbatsov/projectile][Projectile,]] [[https://github.com/clojure-emacs/cider][cider]] and [[http://batsov.com/about/][others]].
 
 Support Bozhidar:
@@ -66,7 +66,7 @@ Support Bozhidar:
 - via [[https://www.gratipay.com/bbatsov][gratipay]]
 - via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3J4QE5QBJU84Q][PayPal]]
 
-*** Thierry Volpiatto
+** Thierry Volpiatto
 Creator and maintainer of [[https://github.com/emacs-helm/helm][Helm]].
 
 #+BEGIN_QUOTE
@@ -81,7 +81,7 @@ Support Thierry:
 - via [[https://patreon.com/preview/30231724baf440fabe80d44d0ee77067][Patreon]]
 - via [[https://www.paypal.me/thierryvolpiatto/20][PayPal]]
 
-*** Jonas Bernoulli
+** Jonas Bernoulli
 Maintainer of [[https://magit.vc/][Magit]].
 
 #+BEGIN_QUOTE
@@ -97,7 +97,7 @@ Support Jonas:
 - via [[https://magit.vc/donate/][bank transfer, bitcoin and other means]]
 
 
-*** Matus Goljer
+** Matus Goljer
 Maintains and co-maintains [[https://github.com/Fuco1/smartparens][smartparens]], [[https://github.com/magnars/dash.el][dash]], [[https://github.com/Fuco1/dired-hacks][dired-hacks]], [[https://github.com/Fuco1/litable][litable]] and [[https://github.com/Fuco1/litable][others]].
 
 #+BEGIN_QUOTE
@@ -110,17 +110,17 @@ Support Matus:
 - via [[https://www.patreon.com/user?u=3282358][Patreon]]
 - via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYP5YVHDRX8C][PayPal]]
 
-*** Francois-Xavier Bois
+** Francois-Xavier Bois
 Creator of [[http://web-mode.org/][web-mode]]. Support Francois-Xavier:
 
 - via [[https://paypal.me/fxbois][PayPal]]
 - via [[https://liberapay.com/fxbois/donate][liberpay]]
 
-*** Jorgen Schäfer
+** Jorgen Schäfer
 Creator of [[https://github.com/jorgenschaefer/elpy][elpy]], [[https://github.com/jorgenschaefer/circe][circe]] and [[https://github.com/jorgenschaefer][others]]. Support Jorgen:
 - via [[https://www.patreon.com/jorgenschaefer][Patreon]]
 
-*** Oleh Krehel ([[https://github.com/abo-abo][abo-abo]])
+** Oleh Krehel ([[https://github.com/abo-abo][abo-abo]])
 Creator of [[https://github.com/abo-abo/ace-window][ace-window]], [[https://github.com/abo-abo/lispy][lispy]], [[https://github.com/abo-abo/org-download][org-download]] and [[https://github.com/abo-abo?tab=repositories][others]].
 
 #+BEGIN_QUOTE
@@ -133,9 +133,9 @@ Support Oleh:
 - [[https://paypal.me/aboabo][PayPal]]
 - [[https://flattr.com/@abo-abo][Flattr]]
 
-** Books, tutorials, blogs
+* Books, tutorials, blogs
 
-*** Sacha Chua
+** Sacha Chua
 
 #+BEGIN_QUOTE
 I try to share as much as I can through this personal blog. You’ll find notes about sketchnoting, Emacs, visual book reviews, self-tracking, blogging, life, automation, delegation… whatever I’m learning about or whatever I can help other people learn.
@@ -144,7 +144,7 @@ I try to share as much as I can through this personal blog. You’ll find notes 
 Support Sacha:
 - by buying [[http://sachachua.com/blog/resources/][her sketches and e-books]] for whatever price you want
 
-*** Xah Lee
+** Xah Lee
 
 Writes a blog and tutorials on ergonomic Emacs.
 
