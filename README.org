@@ -96,6 +96,19 @@ Creator of [[http://web-mode.org/][web-mode]]. Support Francois-Xavier:
 Creator of [[https://github.com/jorgenschaefer/elpy][elpy]], [[https://github.com/jorgenschaefer/circe][circe]] and [[https://github.com/jorgenschaefer][others]]. Support Jorgen:
 - via [[https://www.patreon.com/jorgenschaefer][Patreon]]
 
+*** Oleh Krehel ([[https://github.com/abo-abo][abo-abo]])
+Creator of [[https://github.com/abo-abo/ace-window][ace-window]], [[https://github.com/abo-abo/lispy][lispy]], [[https://github.com/abo-abo/org-download][org-download]] and [[https://github.com/abo-abo?tab=repositories][others]].
+
+#+BEGIN_QUOTE
+I give willingly, and strive to give as much as I can, after I do my 9-to-5 job that lets me stay alive. With enough success of my donation campaign, I could switch to a 4 days per week work. Having one whole day per week to be free to do what I want would mean very much to me: I could undertake more complex tasks that require multiple hours of concentrated work, instead of just doing 1-2 hours of maintenance work every evening after a full work day.
+#+END_QUOTE
+
+Support Oleh:
+- [[https://liberapay.com/abo-abo/donate][liberpay]]
+- [[https://www.patreon.com/abo_abo][Patreon]]
+- [[https://paypal.me/aboabo][PayPal]]
+- [[https://flattr.com/@abo-abo][Flattr]]
+
 ** Books, tutorials, blogs
 
 *** Sacha Chua
