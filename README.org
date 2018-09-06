@@ -1,3 +1,27 @@
+* Table of Contents
+:PROPERTIES:
+:TOC: this
+:END:
+  -  [[#support-emacs-community-developers][Support Emacs community developers]]
+    -  [[#core-emacs][Core Emacs]]
+    -  [[#infrastructure][Infrastructure]]
+      -  [[#steve-purcell][Steve Purcell]]
+    -  [[#distributions][Distributions]]
+      -  [[#spacemacs][Spacemacs]]
+    -  [[#packages][Packages]]
+      -  [[#bastien-guerry][Bastien Guerry]]
+      -  [[#bozhidar-batsov-bbatsov][Bozhidar Batsov (bbatsov)]]
+      -  [[#thierry-volpiatto][Thierry Volpiatto]]
+      -  [[#jonas-bernoulli][Jonas Bernoulli]]
+      -  [[#matus-goljer][Matus Goljer]]
+      -  [[#francois-xavier-bois][Francois-Xavier Bois]]
+      -  [[#jorgen-schäfer][Jorgen Schäfer]]
+      -  [[#oleh-krehel-abo-abo][Oleh Krehel (abo-abo)]]
+    -  [[#books-tutorials-blogs][Books, tutorials, blogs]]
+      -  [[#sacha-chua][Sacha Chua]]
+      -  [[#xah-lee][Xah Lee]]
+  -  [[#contributions][Contributions]]
+
 * Support Emacs community developers
 
 Consider supporting the developers behind Emacs, great packages and educational resources. Often, a package is used by tens of thousands of people while the maintainers can barely pay the bills.
