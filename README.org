@@ -20,6 +20,7 @@ Consider supporting the developers behind Emacs, great packages and educational 
     -  [[#francois-xavier-bois][Francois-Xavier Bois]]
     -  [[#jorgen-schäfer][Jorgen Schäfer]]
     -  [[#oleh-krehel-abo-abo][Oleh Krehel (abo-abo)]]
+    -  [[#protesilaos-stavrou][Protesilaos Stavrou]]
   -  [[#books-tutorials-blogs][Books, tutorials, blogs]]
     -  [[#sacha-chua][Sacha Chua]]
     -  [[#xah-lee][Xah Lee]]
@@ -132,6 +133,12 @@ Support Oleh:
 - [[https://www.patreon.com/abo_abo][Patreon]]
 - [[https://paypal.me/aboabo][PayPal]]
 - [[https://flattr.com/@abo-abo][Flattr]]
+  
+** Protesilaos Stavrou
+
+Creator of [[https://protesilaos.com/emacs/][denote, modus-themes, and other packages]].
+
+[[https://protesilaos.com/coach/][Provides private lessons or services on Emacs, Linux, and life in general]].
 
 * Books, tutorials, blogs
 
