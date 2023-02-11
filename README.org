@@ -20,6 +20,8 @@ Consider supporting the developers behind Emacs, great packages and educational 
     -  [[#francois-xavier-bois][Francois-Xavier Bois]]
     -  [[#jorgen-schäfer][Jorgen Schäfer]]
     -  [[#oleh-krehel-abo-abo][Oleh Krehel (abo-abo)]]
+    -  [[#protesilaos-stavrou][Protesilaos Stavrou]]
+    -  [[#leo-vivier][Leo Vivier]]
   -  [[#books-tutorials-blogs][Books, tutorials, blogs]]
     -  [[#sacha-chua][Sacha Chua]]
     -  [[#xah-lee][Xah Lee]]
@@ -128,10 +130,22 @@ I give willingly, and strive to give as much as I can, after I do my 9-to-5 job 
 #+END_QUOTE
 
 Support Oleh:
-- [[https://liberapay.com/abo-abo/donate][liberpay]]
+- [[https://liberapay.com/abo-abo/donate][liberapay]]
 - [[https://www.patreon.com/abo_abo][Patreon]]
 - [[https://paypal.me/aboabo][PayPal]]
 - [[https://flattr.com/@abo-abo][Flattr]]
+  
+** Protesilaos Stavrou
+
+Creator of [[https://protesilaos.com/emacs/][denote, modus-themes, and other packages]].
+
+[[https://protesilaos.com/coach/][Provides private lessons or services on Emacs, Linux, and life in general]].
+
+** Leo Vivier
+
+Co-organizer of [[https://emacsconf.org][EmacsConf]], co-maintainer of [[https://www.orgroam.com/][Org Roam]].
+
+Support Leo: [[https://github.com/sponsors/zaeph][Github]]
 
 * Books, tutorials, blogs
 
@@ -155,3 +169,5 @@ Support Xah:
 * Contributions
 
 Feel free to add more developers to this list. Their work should be relevant to the Emacs community and support links should be pointing to actionable pages (donations, patreon subscriptions, stores, etc).
+
+There is another list at https://github.com/tarsius/elisp-maintainers
